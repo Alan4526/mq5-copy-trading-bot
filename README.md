@@ -46,4 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or issues, open an issue in the repository or contact the project maintainer.
+Email: ms0606.papa@gmail.com
 
